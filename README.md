@@ -1,1 +1,5 @@
-# ts_company
+# Установленные библиотеки
+* audio-separator
+* purge
+* torchaudio
+* onnxruntime-gpu
